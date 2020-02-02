@@ -1,0 +1,12 @@
+com\spark\examples\JoinApp.class
+com\spark\streaming\example\KafkaTest.class
+com\spark\examples\App.class
+com\spark\examples\PartitionExample.class
+com\spark\examples\MapApp.class
+com\spark\examples\MapToPairApp.class
+com\spark\examples\App$2.class
+com\spark\examples\PartitionExample$CustomerPartitioner.class
+com\spark\examples\FlatMapApp.class
+com\spark\examples\FlatMapValueExample.class
+com\spark\examples\App$1.class
+com\spark\examples\FlatMapToPairs.class
